@@ -1,0 +1,20 @@
+{
+    "produtos": [
+        {
+                "id": 1,
+                "photo":"https://images-na.ssl-images-amazon.com/images/I/71MHTD3uL4L._SL1500_.jpg",
+                "name": "Iphone",
+                "description": "Descrição do produto",
+                "price": 10000
+        },
+        {
+            "id": 1,
+            "photo":"https://a-static.mlcdn.com.br/618x463/smartphone-xiaomi-redmi-note-8/xiaomi/197/017e5f23c4a6e404719432d419c9a900.jpg ",
+            "name": "Xiaome",
+            "description": "Descrição do produto",
+            "price": 1800
+        
+    }
+        
+    ]
+}
